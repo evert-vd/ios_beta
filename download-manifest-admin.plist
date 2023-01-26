@@ -19,11 +19,11 @@
               <key>bundle-identifier</key> 
               <string>com.molicom.moliadmin</string> 
               <key>bundle-version</key> 
-              <string>1.2</string> 
+              <string>1.9</string> 
               <key>kind</key> 
               <string>software</string> 
               <key>title</key> 
-              <string>MoliVentas</string> 
+              <string>MoliAdmin</string> 
           </dict> 
       </dict> 
   </array> 
