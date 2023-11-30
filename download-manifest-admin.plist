@@ -17,7 +17,7 @@
           <key>metadata</key> 
           <dict> 
               <key>bundle-identifier</key> 
-              <string>com.Molicom.Moliadmin</string> 
+              <string>com.Molicom.MoliAdmin</string> 
               <key>bundle-version</key> 
               <string>19</string> 
               <key>kind</key> 
